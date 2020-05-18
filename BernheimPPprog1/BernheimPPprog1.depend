@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589806375 source:c:\users\bernheim\desktop\bernheimppprog1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
